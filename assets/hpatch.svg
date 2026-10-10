@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="320"
+   viewBox="0 0 84.666667 84.666667"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       d="m 38.424916,22.558482 c -5.776574,-0.02336 -9.709375,5.161627 -11.862566,9.953865 -1.326737,2.894185 -2.310239,5.945625 -2.954053,9.062752 2.915029,0.554051 1.406614,-2.897015 1.748798,-4.67275 -0.0017,-10.497941 8.67e-4,-20.995881 9.62e-4,-31.4938221 -6.688796,0 -13.377594,0 -20.0663903,0 0,24.6554911 0,49.3109821 0,73.9664731 7.1944213,0 14.3888423,0 21.5832633,0 0,-13.455521 0,-26.911041 0,-40.366561 0.882655,0.205458 2.600888,-0.427081 2.917658,0.345901 0.03855,13.34022 0.07711,26.68044 0.115666,40.02066 6.727756,0 13.455512,0 20.183267,0 -0.035,-13.842725 0.07181,-27.687671 -0.05677,-41.528933 -0.27705,-5.125485 -1.281258,-11.219482 -6.144776,-14.02613 -1.66229,-0.919003 -3.582139,-1.264336 -5.465086,-1.261455 z"
+       id="text4"
+       style="font-size:133.333px;font-family:'Megora Demo';-inkscape-font-specification:'Megora Demo, Normal';fill:#ffffff;fill-opacity:1;stroke-width:0.437499"
+       aria-label="h" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.405344"
+       id="rect10"
+       width="49.387157"
+       height="9.8391924"
+       x="27.672741"
+       y="7.6067705" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.287299"
+       id="rect17"
+       width="24.810493"
+       height="9.8391924"
+       x="52.249405"
+       y="19.529556" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.287299"
+       id="rect19"
+       width="24.810492"
+       height="9.8391924"
+       x="52.249405"
+       y="31.452341" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.287299"
+       id="rect21"
+       width="24.810495"
+       height="9.8391924"
+       x="52.249405"
+       y="43.375126" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.287299"
+       id="rect23"
+       width="24.810497"
+       height="9.8391924"
+       x="52.249405"
+       y="55.297916" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.287299"
+       id="rect25"
+       width="24.810495"
+       height="9.8391924"
+       x="52.249405"
+       y="67.220695" />
+  </g>
+</svg>
